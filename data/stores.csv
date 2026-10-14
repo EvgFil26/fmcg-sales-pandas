@@ -1,0 +1,41 @@
+store_id,city,region,format,open_date
+S001,Kazan,Volga,Supermarket,2019-06-07
+S002,Chelyabinsk,Ural,Supermarket,2021-12-04
+S003,NOVOSIBIRSK ,Siberia,Supermarket,2022-04-28
+S004,KALININGRAD ,North-West,Hypermarket,2020-06-17
+S005,Novosibirsk,Siberia,Supermarket,2022-01-13
+S006,Saint Petersburg,North-West,Hypermarket,2019-06-29
+S007,Yaroslavl,Central,Supermarket,2018-06-08
+S008,Yekaterinburg,Ural,Convenience,2018-07-12
+S009,Nizhny Novgorod,Volga,Hypermarket,2020-06-13
+S010,Tula,Central,Hypermarket,2022-12-11
+S011,Chelyabinsk,Ural,Supermarket,2018-09-13
+S012,Yaroslavl,Central,Supermarket,2020-06-30
+S013,Chelyabinsk,Ural,Supermarket,2021-11-09
+S014,Moscow,Central,Supermarket,2019-02-09
+S015,Chelyabinsk,Ural,Convenience,2021-12-14
+S016,Chelyabinsk,Ural,Supermarket,2019-09-04
+S017,Chelyabinsk,Ural,Supermarket,2022-06-06
+S018,Nizhny Novgorod,Volga,Convenience,2021-03-04
+S019,Kazan,Volga,Hypermarket,2020-12-29
+S020,Yekaterinburg,Ural,Hypermarket,2018-12-20
+S021,Saint Petersburg,North-West,Hypermarket,2020-07-15
+S022,CHELYABINSK ,Ural,Convenience,2022-09-10
+S023,Samara,Volga,Supermarket,2018-02-09
+S024,Kazan,Volga,Hypermarket,2022-02-26
+S025,Samara,Volga,Supermarket,2020-09-12
+S026,Samara,Volga,Hypermarket,2021-12-09
+S027,Moscow,Central,Supermarket,2021-08-19
+S028,TULA ,Central,Supermarket,2020-05-14
+S029,Yaroslavl,Central,Supermarket,2019-09-10
+S030,TULA ,Central,Supermarket,2021-06-08
+S031,Kazan,Volga,Supermarket,2018-10-08
+S032,YEKATERINBURG ,Ural,Supermarket,2021-03-14
+S033,Nizhny Novgorod,Volga,Hypermarket,2018-07-09
+S034,Kazan,Volga,Hypermarket,2021-07-23
+S035,Novosibirsk,Siberia,Convenience,2021-06-11
+S036,Samara,Volga,Convenience,2018-06-18
+S037,Moscow,Central,Supermarket,2022-02-23
+S038,Chelyabinsk,Ural,Supermarket,2020-04-11
+S039,Samara,Volga,Convenience,2022-04-23
+S040,Nizhny Novgorod,Volga,Convenience,2018-03-25
